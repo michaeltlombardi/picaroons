@@ -13,9 +13,19 @@ Attacks are always contested. In melee, the highest result is the damage dealt t
 
 When you drop to 0HP, choose one immediately:
 
-- **Carry On:** Transfer all of your current marks to a loved one. You have died, but live on in them.
-- **Save Self:** make a test; if successful, return to 1HP but unable to participate for the rest of the scene.
-- **Use It:** Sacrifice a HD to get back into it; reroll remaining HD to determine new your HP.
-- **Wait it Out:** roll HD; unless someone renders first aid in that many rounds, you die
+{{< tabs "whendying" >}}
+{{< tab "Carry On" >}}
+Transfer all of your current marks to a loved one. You have died, but live on in them.
+{{< /tab >}}
+{{< tab "Save Self" >}}
+Make a test; if successful, return to 1HP but unable to participate for the rest of the scene.
+{{< /tab >}}
+{{< tab "Use It" >}}
+Sacrifice a HD to get back into it; reroll remaining HD to determine new your HP.
+{{< /tab >}}
+{{< tab "Wait It Out" >}}
+Roll HD; unless someone renders first aid in that many rounds, you die.
+{{< /tab >}}
+{{< /tabs >}}
 
 A friend can spend an action to provide first aid, testing as normal to bring you back to 1HP. Alternatively, if rendering first aid after the combat scene ends, automatically succeed without a test.

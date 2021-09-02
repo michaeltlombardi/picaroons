@@ -19,30 +19,39 @@ Hirelings are temporary followers who expect to be remunerated at least weekly a
 
 Unless noted, hirelings can use tricks once per scene.
 
-### Yan
-
-- HD: 2d6
-- Pay: 6s
-
+{{< tabs "whendying" >}}
+{{< tab "Yan" >}}
+{{< columns >}}
+HD: 2d6
+<--->
+<--->
+Pay: 6s
+{{< /columns >}}
 |  Domains   |    Tricks    | Effect                                                     |
 | :--------: | :----------: | :--------------------------------------------------------- |
 | Chef (d10) | Make Do (d6) | Prepare result meals from random detritus available nearby |
-
-### Diya
-
-- HD: 3d6
-- Pay: 10s
-
+{{< /tab >}}
+{{< tab "Diya" >}}
+{{< columns >}}
+HD: 3d6
+<--->
+<--->
+Pay: 10s
+{{< /columns >}}
 |     Domains     |     Tricks      | Effect                             |
 | :-------------: | :-------------: | :--------------------------------- |
 | Sellsword (2d8) | Heartrend (2d6) | On hit, add result to damage total |
-
-### Frankie
-
-- HD: d6
-- Pay: 10s
-
+{{< /tab >}}
+{{< tab "Frankie" >}}
+{{< columns >}}
+HD: d6
+<--->
+<--->
+Pay: 10s
+{{< /columns >}}
 |       Domains       |       Tricks       | Effect                                   |
 | :-----------------: | :----------------: | :--------------------------------------- |
 |    Merchant (d6)    | Haggle d8, 3/scene | Reduce price by result                   |
 | Rooftop Runner (d8) |  Clamber Up (2d6)  | Climb any surface result yards with ease |
+{{< /tab >}}
+{{< /tabs >}}

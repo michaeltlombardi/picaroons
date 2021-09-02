@@ -2,6 +2,7 @@
 # Update to your own settings for URL/title
 baseURL: https://picaroons.netlify.app/
 title: Picaroons
+description: Narrative adventures as scoundrels
 theme: book
 
 # Book configuration
@@ -42,6 +43,8 @@ menu:
       weight: 10
 
 params:
+  images:
+    - images/picaroons.png
   # (Optional, default light) Sets color theme: light, dark or auto.
   # Theme 'auto' switches between dark and light modes based on browser/os preferences
   BookTheme: "auto"

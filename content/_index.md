@@ -1,17 +1,78 @@
 ---
-title: My Very Good Games
+title: Picaroons Playkit and Supplements
 type: docs
 ---
 
-This is a place with some very good games I made. It uses hugo and markdown to turn some plaintext drafts into a website.
+> A Narrative Game of Adventure for Scoundrels
 
-You can install this website as an app, it's a fully functional PWA!
+Picaroons is an adventuring tabletop roleplaying game for picaresque adventures;
+take on the role of a picaroon, a rogue who must rely on their wits to make their way in an uncaring world.
 
-You can checkout two different versions of Picaroons, either via the menu or these links:
+Use this game text however you please, so long as you’re not a bigot, fascist, or other piece of dogshit.
 
-1. [Picaroons as a multi-page project]({{< relref "/docs/picaroons" >}})
-2. [Picaroons as a single-page project]({{< relref "/docs/picaroons-sp" >}})
+This project is under development!
 
-You can also checkout the blog via the menu or [this link]({{< relref "/posts" >}}).
+It currently includes lightweight rules for adjudication, character creation/advancement, combat, companions, hirelings, and resting.
+It also includes 6 picaresques, adventure kickstarts to drop you in media res and get to playing!
 
-While not currently implemented, you can include multiple language versions of your site and switch between them via the menu.
+## Itchfunding
+
+You can also buy Picaroons on itch, where it is itchfunding!
+Buying a copy gets you a print-at-home PDF as well as as the EPUB release.
+
+<iframe frameborder="0" src="https://itch.io/embed/1167997?linkback=true" width="552" height="167"><a href="https://michaeltlombardi.itch.io/picaroons">Picaroons by Michael T Lombardi</a></iframe>
+
+- [x] **$200 USD:** I'll be able to afford proper editing of the core book. Minimum price will rise $2USD!
+- [ ] **$500 USD:** I'll be able to afford layout of the core book. Minimum price will rise $1USD!
+- [ ] **$750 USD:**  I'll be able to afford custom character sheets. Minimum price will rise $1USD!
+- [ ] **$1000 USD:** I'll be able to afford an initial print run of the core book, details to follow as we close in on this goal.
+- [ ] **$1250 USD:** I'll have actually been remunerated for some of the writing!
+      As the remaining zines are completed, I'll add itchfunding projectsfor them as well.
+      In the meantime, you can pre-buy them as add-ons!
+      Note that their minimum price will go up as they get completed, so buying early is also buying at a discount!
+
+## Upcoming Projects
+
+### Scrivener's Kit
+
+![A mockup of the Scrivener's Kit supplementary zine, courtesy of Chris Bissette](/images/mockups/ScrivenersKit.png)
+
+In this zine, guidance for the player(s) running  Picaroons through adventures, featuring:
+
+- **Adjudication Flow:** when to call for tests and advice for interpreting them
+- **Conversions:** help for pulling content from anywhere else into Picaroons
+- **Addenda:** optional systems for reputations, relationships, factions, downtime, etc.
+
+### Tricks of the Trade
+
+![Mockup of the Tricks of the Trade supplementary zine, courtesy of Chris Bissette](/images/mockups/TricksOfTheTrade.png)
+
+In this zine, examples of tricks and subsystems to expand on them, featuring:
+
+- **The Supernatural:** tricks for pacts with magical entities, spell scholarship, rituals, bindings, and unlocking the magic within
+- **The Merely Mundane:** tricks for feats of arm, deep skill, and knowledge as power
+- **Training, Study & Quests:** how to acquire tricks without spending marks
+
+### Questing Curios
+
+![Mockup of the Questing Curios supplementary zine, courtesy of Chris Bissette](/images/mockups/QuestingCurios.png)
+
+In this zine, examples of domains-as-items, featuring:
+
+- **Relics:** powerful items with conditions and unlocks, made by powerful entitites
+- **Soulslivers:** items which grow as they are used
+- **Banal Magic:** disposable items whose power wanes with use
+- **Alchemy:** a subsystem for creating and using consumable magic
+
+### Palatial Shadows
+
+![Mockup of the Palatial Shadows adventure zine, courtesy of Chris Bissette](/images/mockups/PalatialShadows.png)
+
+In this zine, an urban hexflower featuring:
+
+- **The Palace:** 7 hexes of palatial grounds
+- **The City:** featuring numerous neighborhoods, including The Docks, The Old City, Riverside, The Steel Quarter, Ashtown, Gilded Grove, and more
+- **Factions:** The Regent, The Raptors, Alchemist's Guild, The Silent Librarians, The Students' Union, Drake's Kin, and more
+- **Characters:** Numerous folk of note, including hirelings, potential companions, patrons, and people with problems.
+- **Lifepath:** An alternate character creation flow to raise Picaroons beneath the shadow of the great palace
+- **Hearsay:** timelines of events happening in the city and advice on bringing them into play

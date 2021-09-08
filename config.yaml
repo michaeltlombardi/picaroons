@@ -3,8 +3,16 @@
 baseURL: https://picaroons.netlify.app/
 title: Picaroons
 description: Narrative adventures as scoundrels
-theme: book
+# Google Analytics code
 googleAnalytics: G-4KSV7MVQ0D
+
+module:
+  # Dev use only!
+  # Only used in local testing; make sure to override the path to your own local copy
+  # replacements: 'github.com/platenio/hugo-platen -> C:\code\platen\themes\platen'
+  imports:
+    - path: github.com/platenio/hugo-platen
+    - path: github.com/alex-shpak/hugo-book
 
 # Book configuration
 disablePathToLower: true
@@ -44,6 +52,8 @@ menu:
       weight: 10
 
 params:
+  # Sets image to use for the OpenGraph configuration:
+  # - https://gohugo.io/templates/internal/#open-graph
   images:
     - images/picaroons.png
   # (Optional, default light) Sets color theme: light, dark or auto.

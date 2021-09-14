@@ -4,7 +4,7 @@ baseURL: https://picaroons.netlify.app/
 title: Picaroons
 description: Narrative adventures as scoundrels
 # Google Analytics code
-googleAnalytics: G-4KSV7MVQ0D
+googleAnalytics: UA-206705745-1
 
 module:
   # Dev use only!

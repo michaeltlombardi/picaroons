@@ -23,3 +23,4 @@ title: "Acknowledgements"
 ### Friendly Sponsors
 
 - Monkey's Paw Games ([Twitter](https://twitter.com/monkeyspawgames), [Itch](https://monkeys-paw-games.itch.io/), [Store](https://monkeyspawgames.com/))
+- Sivad's Sanctum ([Twitter](https://twitter.com/sivads_sanctum), [Itch](https://sivads-sanctum.itch.io))

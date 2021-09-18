@@ -24,3 +24,4 @@ title: "Acknowledgements"
 
 - Monkey's Paw Games ([Twitter](https://twitter.com/monkeyspawgames), [Itch](https://monkeys-paw-games.itch.io/), [Store](https://monkeyspawgames.com/))
 - Sivad's Sanctum ([Twitter](https://twitter.com/sivads_sanctum), [Itch](https://sivads-sanctum.itch.io))
+- Zeshio Illustration ([Yol'Najj Forest Zine](https://zeshio.itch.io/yolnajjforest), [Patreon](https://www.patreon.com/zeshio), [Twitter](https://twitter.com/zeshio), [Itch](https://zeshio.itch.io))

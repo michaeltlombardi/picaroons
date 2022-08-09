@@ -2,82 +2,91 @@
 title: Tricks
 weight: 2
 description: |
-  Special abilities for Picaroons
+  Special abilities for picaroons
 ---
 
-Tricks can be anything you like, but here's a few examples.
+Tricks are always specific to their domain. They make the probable automatic, the unlikely probable,
+or the impossible possible. Tricks have a die size and count, marks, and uses per scene. Tricks
+start at 1d6 with 0 marks and 1 use per scene.
 
-## Burning Blade
+Tricks add new mechanisms or modify the existing mechanisms in a limited way. They may be spells,
+extraordinary abilities, functions of magic items, reflections of preternatural skill, or anything
+else that makes sense to you.
 
-Roll the trick dice whenever you please;
-add result to your damage for the rest of the scene
+Tricks may be limited by a trigger or they may be used whenever you please, as long as you have at
+least one use left in the scene.
 
-## Call Lightning
+## Example Tricks
 
-While outside, pick a point you can see and roll the trick dice;
-deal this much damage to everything nearby
+There is no limit on what a trick can be or do, so long as you and the folks at your table agree to
+it. The tricks listed below are examples, not the totality of possible tricks.
 
-## Castigate
+### Burning Blade
 
-Roll the trick dice when rebuking someone;
-Any attempts to interact with you for the rest of the scene require a roll to beat your result
+Roll the trick dice whenever you please. Add your result to your damage for the rest of the scene.
 
-## Darken Sky
+### Call Lightning
 
-Roll the trick dice while attacking at range;
-add to total
+While outside, pick a point you can see and roll the trick dice. You deal result damage to
+everything nearby.
 
-## Disappear
+### Castigate
 
-Roll the trick dice whenever you please;
-for the rest of the scene, anyone trying to spot you needs to beat your result on their roll
+Roll the trick dice when rebuking someone. Any attempts to interact with you for the rest of the
+scene require a test to beat the highest die in your result.
 
-## Encyclopedic
+### Darken Sky
 
-Roll the trick dice whenever trying to recall information related to your domain;
-you know result facts about the topic
+Roll the trick dice while attacking at range. Add your result to your test to hit.
 
-## Fly
+### Disappear
 
-Roll the trick dice whenever you please;
-move yourself and/or anything you choose freely through space for result turns;
-count an extra turn for each entity flown
+Roll the trick dice whenever you please. For the rest of the scene, Any attempts to spot you for the
+rest of the scene require a test to beat the highest die in your result.
 
-## Knit Flesh
+### Encyclopedic
 
-Roll the trick dice whenever you please;
-target regains that many HP
+Roll the trick dice whenever trying to recall information related to your domain. You know as many
+facts as your result about the topic.
 
-## Rage
+### Fly
 
-Roll the trick dice whenever you please;
-add the result to any aggressive/physical action, subtract from any defensive/mental action for the rest of the scene
+Roll the trick dice whenever you please. For result turns, move yourself and/or anything you choose
+freely through space. Count an extra turn for each entity flown.
 
-## Reflect
+### Knit Flesh
 
-Roll the trick dice whenever holding your shield and defending against a magical attack;
-if you win the contest, the attack effects the caster
+Roll the trick dice whenever you please. Your target regains result HP.
 
-## Riposte
+### Rage
 
-Roll the trick dice when defending;
-deal the result as damage to attacker
+Roll the trick dice whenever you please. For the rest of the scene, add your result to any
+aggressive/physical action, and subtract it from any defensive/mental action.
 
-## Shatter
+### Reflect
 
-Roll the trick dice when attacking an item;
-add result to total
+Roll the trick dice whenever you're holding your shield and defending against a magical attack. Use
+your result as your roll for the contest. If you win the contest, the attack affects the caster.
 
-## Summon
+### Riposte
 
- To raise one or more entities to your aid, split the trick dice amongst them as their HD and roll the trick dice to determine their HP if relevant
+Roll the trick dice when defending against a melee attack. Deal your result as damage to the
+attacker.
 
-## Telepathy
+### Shatter
 
-Roll the trick dice whenever you want to convey a message;
-you can wordlessly transmit result words to anyone you can see.
+Roll the trick dice when attacking an item. Add your result to the damage.
 
-## Uncanny Block
+### Summon
 
-Roll the trick dice when defending;
-add result to total.
+Roll the trick dice to raise one or more entities. Your trick dice are their HD and your result is
+their HP. You may split the trick dice between multiple entities, rolling separately for each.
+
+### Telepathy
+
+Roll the trick dice whenever you want to convey a message. You can wordlessly transmit result words
+to anyone you can see.
+
+### Uncanny Block
+
+Roll the trick dice when defending. Add your result to your contested roll.

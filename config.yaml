@@ -35,21 +35,13 @@ languages:
     languageName: English
     contentDir: content
     weight: 1
-  ru:
-    languageName: Russian
-    contentDir: content.ru
-    weight: 2
-  zh:
-    languageName: Chinese
-    contentDir: content.zh
-    weight: 3
 
 menu:
   # before: []
-  after:
-    - name: "Theme Docs/Demo"
-      url: "https://hugo-book-demo.netlify.app/"
-      weight: 10
+  # after:
+  #   - name: "Theme Docs/Demo"
+  #     url: "https://hugo-book-demo.netlify.app/"
+  #     weight: 10
 
 params:
   # Sets image to use for the OpenGraph configuration:

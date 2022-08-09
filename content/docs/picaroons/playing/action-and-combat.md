@@ -5,27 +5,48 @@ description: |
   Mechanisms for handling action scenes and combat
 ---
 
-When in an action scene, participants declare up to two actions in order from lowest HD to highest. Where there are ties, agree who goes first or roll off. All actions are resolved simultaneously as makes sense.
+Action scenes are any points in the game where who's doing what and when matters to the table.
+They include chases, fights, infiltrations, etc.
 
-Distances are tracked as zones: adjacent, nearby, distant, and far. Participants can move anywhere nearby as an action or distant as two actions.
+## Taking actions
 
-Attacks are always contested. In melee, the highest result is the damage dealt to the participant with the lowest result. At range, if the shooter's result is lower, they miss.
+In an action scene, participants declare up to two actions in order from lowest HD to highest. Where
+there are ties, agree who goes first or roll off. Resolve all actions simultaneously as makes
+sense.
 
-When you drop to 0HP, choose one immediately:
+## Distances
 
-{{< tabs "whendying" >}}
+Distances are tracked as zones: adjacent, nearby, distant, and far. Participants can move anywhere
+nearby as an action or distant as two actions.
+
+## Attacks
+
+Attacks are always contested. In melee, the highest result is the damage dealt to the participant
+with the lowest result. At range, if the shooter's result is lower, they miss.
+
+## At 0 HP
+
+When you drop to 0 HP, choose one immediately:
+
+{{< tabs "WhenDying" >}}
+
 {{< tab "Carry On" >}}
-Transfer all of your current marks to a loved one. You have died, but live on in them.
+Transfer your current marks to a loved one. You died, but live on in them.
 {{< /tab >}}
+
 {{< tab "Save Self" >}}
-Make a test; if successful, return to 1HP but unable to participate for the rest of the scene.
+Test. If successful, you return to 1 HP but are unable to participate for the rest of the scene.
 {{< /tab >}}
+
 {{< tab "Use It" >}}
-Sacrifice a HD to get back into it; reroll remaining HD to determine new your HP.
+Sacrifice 1 HD to get back into it. Reroll your remaining HD. You're back in action with result HP.
 {{< /tab >}}
+
 {{< tab "Wait It Out" >}}
-Roll HD; unless someone renders first aid in that many rounds, you die.
+Roll your HD. Unless someone renders first aid in result rounds, you die.
 {{< /tab >}}
+
 {{< /tabs >}}
 
-A friend can spend an action to provide first aid, testing as normal to bring you back to 1HP. Alternatively, if rendering first aid after the combat scene ends, automatically succeed without a test.
+You can spend an action to give first aid to someone else, testing to bring them back to 1 HP. If
+rendering first aid after the combat scene ends, no test is required if you have a relevant domain.

@@ -331,3 +331,7 @@ Possible ways to interpret such a faction:
 [5]: #carousing-trouble-debt
 [6]: #carousing-trouble-incarceration
 [7]: #carousing-trouble-outlawry
+[8]: #carousing-memories-new-friend
+[9]: #carousing-memories-stand-out
+[10]: #carousing-memories-comradery
+[11]: #carousing-memories-local-legends

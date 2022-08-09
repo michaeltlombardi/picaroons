@@ -61,3 +61,8 @@ DTRPG
 Beastmarked
 Ankheg(s)?
 [lL]evelless
+[kK]ickstart(s|ing)?
+Soulsliver(s)?
+[hH]exflower(s)?
+Ashtown
+[lL]ifepath(s)?

@@ -56,3 +56,8 @@ Damaceno
 Posadas
 Guax
 Noora
+DTRPG
+[fF]acillitat(e|es|ing)
+Beastmarked
+Ankheg(s)?
+[lL]evelless
